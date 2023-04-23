@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lsnstat"]
+	path = lsnstat
+	url = https://github.com/la-societe-nouvelle/lsnstat
+	shallow = true
+	registered = true
